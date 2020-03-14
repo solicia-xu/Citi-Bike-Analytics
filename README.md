@@ -2,5 +2,4 @@
 
 
 
-![Citi-Bikes](Image/Dashboard 1.jpg)
-
+![Citi-Bikes](image/Dashboard1.jpg)
